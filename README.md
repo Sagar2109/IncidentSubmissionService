@@ -1,4 +1,4 @@
-# 🛠️ Event-to-Insight API
+# 🛠️ Event-to-Insight API (Java Service With LLM)
 
 This project provides APIs to ingest IT incidents, apply AI classification using **Google Gemini LLM**, and retrieve incidents.  
 The system automatically suggests **severity** and **category** for each incident.
